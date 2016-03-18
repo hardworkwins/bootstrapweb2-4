@@ -1,0 +1,215 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+body{
+    font-family: 'Open Sans','Helvetica Neue',Arial,sans-serif;
+}
+header{
+    background-image: url("http://www.quackit.com/html/templates/download/bootstrap/business-2/images/header.jpg") ;
+}
+.navbar-default{
+    background-color:transparent;
+}
+.navbar-right{
+    background-color:transparent;
+}
+#customnavbrand{
+    margin-left: 65px;
+    color: white;
+}
+#customnavbrand>span{
+    margin-right: 10px;
+}
+.navbar-right{
+    margin-right: 65px;
+
+}
+#customidright>li>a{
+    color: white;
+}
+#customidright>li:hover .test{
+    color: lightgreen;
+}
+
+#customtop{
+    background-color:transparent;
+    padding-bottom: 300px;
+}
+#customtop>div>h1{
+    color: #FFFFFF;
+    font-size: 100px;
+    font-weight: 100;
+    text-align: center;
+    font-family: 'Open Sans','Helvetica Neue',Arial,sans-serif;
+}
+#customtop>div>p{
+    color: #FFFFFF;
+    text-align: center;
+}
+#customtop>div>p>a{
+    background-color: #9ACD32;
+    border-radius: 30px;
+    border:none;
+}
+.jumbotron{
+    margin-bottom: 0;
+}
+#customcent {
+    background-color: #9ACD32;
+    padding-top: 40px;
+    padding-bottom: 40px;
+    margin-bottom:0;
+}
+#customcent>h1{
+    color: white;
+    font-weight: 100;
+    font-size: 30px;
+    text-align: center;
+}
+#customcent>p{
+    color: white;
+    font-weight: 100;
+    font-size: 17px;
+    text-align: center;
+}
+#customcent >span{
+    color: white;
+    padding-left: 50%;
+    margin-bottom: 1px;
+    margin-top: 1px;
+    font-style: normal;
+}
+#customrow1{
+    background-color: white;
+}
+#customcol1>img{
+    border-radius: 100%;
+    margin-bottom: 65px;
+    margin-top: 65px;
+    margin-left: 0.1em;
+}
+#customcol2{
+    padding-top: 75px;
+    padding-left: 30px;
+}
+#customcol2>p{
+    color:#EEEEEE;
+    font-size: 1.7em;
+}
+#customcol2>button{
+    border-radius: 30px;
+    background-color: #9ACD32;
+    color: white;
+    padding: 20px;
+}
+#customrow2{
+    background-color: black;
+    padding-left: 25px;
+    padding-right: 25px;
+}
+#customcol3{
+    padding-top: 75px;
+    padding-right: 30px;
+}
+#customcol3>h1{
+    color: white;
+}
+#customcol3>p{
+    color:#EEEEEE;
+    font-size: 1.7em;
+}
+#customcol3>button{
+    border-radius: 30px;
+    background-color: white;
+    color: black;
+    padding: 20px;
+}
+
+#customcol3_btn{
+    border-radius: 25px;
+    width: 135px;
+    padding: 15px 10px;
+    text-align: center;
+}
+#customcol4>img{
+    border-radius: 100%;
+    margin-bottom: 50px;
+    margin-top: 50px;
+}
+#custombot1{
+    padding: 60px;
+    text-align: center;
+    background-image: url("http://www.quackit.com/html/templates/download/bootstrap/business-2/images/writing.jpg");
+}
+#custombot2{
+    padding: 60px;
+    text-align: center;
+    background-image: url("http://www.quackit.com/html/templates/download/bootstrap/business-2/images/concert.jpg");
+}
+
+.customrow2ColBtn {
+    font-size: 40px;
+    display: inline-block;
+    vertical-align: middle;color: white;
+    text-shadow: 0px 0px 40px black;
+    text-decoration: none;
+} 
+#custombot3{
+    padding: 60px;
+    text-align: center;
+    background-image: url("http://www.quackit.com/html/templates/download/bootstrap/business-2/images/pencil_sharpener.jpg");
+}
+#custombot{
+    background-color: white;
+    text-align: center;
+}
+
+#custombot>div>h1{
+    font-size: 30px;
+    margin-top: 20px;
+    margin-bottom: 10px;
+}
+
+#para1{
+    color: #B8B2A6;
+}
+#icon1{
+    color: #9ACD32;
+    font-weight: bold;
+    font-size: xx-large;
+}
+#button1{
+    background-color:#9ACD32;
+    border: none;
+    border-radius: 50px;
+    padding: 15px 30px;
+}
+
+.page-footer {
+    text-align: center; 
+}
+
+.page-footer .contact {
+    padding: 100px 0;
+    background-color: yellowgreen;
+    color: #fff;
+}
+
+#contactDetails{
+    font-size: 30px;
+}
+
+.phoneIcon{
+    font-size: xx-large;
+}
+
+.page-footer .contact {
+    font-size: 22px;
+    font-weight: 300;
+}
+
+.page-footer .small-print {
+    padding: 50px 0 40px;
+    font-weight: 300;
+}
